@@ -1,13 +1,12 @@
 # Awesome Zend Framework 3
 
-
-A curated list of awesome resources about ZF3.
-
-Contributing
-Just do a PR :)!
+A curated list of awesome resources about ZF3. Nothing official, just my own list. I'm not part of the dev team.
 
 
-## Presentation
+Contributing: just do a PR, a tweet to @batmansmk or anyone in the dev team :)!
+
+
+## General Presentation
 
 
 [Components, PSR-7, and Middleware: Zend Framework 3 by Matthew Weier O' Phinney 2015-10-22](http://weierophinney.github.io/2015-10-22-ZF3/#/25)
@@ -21,11 +20,14 @@ Just do a PR :)!
 
 [Generation presentation with Roave 2013-11-06](https://plus.google.com/hangouts/onair/watch?hid=AP36tYebbssRQZsn9Oy-McV8BXXnv5Ism1RaVqoqJyerlP0ds7VA&ytl=loJeotcIAE4&hl=en)
 
-## Specific component
+## Ground work and ideas
+
+[PSR-7](http://www.php-fig.org/psr/psr-7/)
+
+[Middleware](https://github.com/zendframework/zend-expressive)
 
 
-Objectives
+### Objectives
 * Focus on performance
 * Not a full rewrite, incremental upgrades with some breaking changes
 * Every module becomes its own repository
-
