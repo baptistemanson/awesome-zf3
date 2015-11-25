@@ -8,6 +8,7 @@ Contributing: just do a PR, a tweet to @batmansmk or anyone in the dev team :)!
 
 ## General Presentation
 
+[ZF3 the future of PHP in French By Sophie Beaupuis](http://fr.slideshare.net/SophieBeaupuis/afup-2015-zf3-le-futur-de-php-55507205)
 
 [Components, PSR-7, and Middleware: Zend Framework 3 by Matthew Weier O' Phinney 2015-10-22](http://weierophinney.github.io/2015-10-22-ZF3/#/25)
 
