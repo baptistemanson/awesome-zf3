@@ -30,4 +30,4 @@ Contributing: just do a PR, a tweet to @batmansmk or anyone in the dev team :)!
 ### Objectives
 * Focus on performance
 * Not a full rewrite, incremental upgrades with some breaking changes
-* Every module becomes its own repository
+* Every component becomes its own repository
