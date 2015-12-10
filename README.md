@@ -7,6 +7,8 @@ Contributing: just do a PR, a tweet to @batmansmk or anyone in the dev team :)!
 
 
 ## General Presentation
+[ZF3 status update 2015-12-10](http://framework.zend.com/blog/2015-12-10-zf3-biweekly-update.html)
+
 [ZF3 status update 2015-11-25](http://framework.zend.com/blog/zend-framework-3-update-and-roadmap.html)
 
 [ZF3 the future of PHP in French By Sophie Beaupuis 2015-11-22](http://fr.slideshare.net/SophieBeaupuis/afup-2015-zf3-le-futur-de-php-55507205)
