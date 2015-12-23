@@ -7,6 +7,11 @@ Contributing: just do a PR, a tweet to @batmansmk or anyone in the dev team :)!
 
 
 ## General Presentation
+
+[ZF3 installer](http://zendframework.github.io/zend-component-installer/)
+
+[ZF3 status update 2015-12-22](http://framework.zend.com/blog/2015-12-22-zf3-biweekly-update.html) 
+
 [ZF3 status update 2015-12-10](http://framework.zend.com/blog/2015-12-10-zf3-biweekly-update.html)
 
 [ZF3 status update 2015-11-25](http://framework.zend.com/blog/zend-framework-3-update-and-roadmap.html)
